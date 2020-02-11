@@ -1,0 +1,29 @@
+
+
+table
+ {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: blue;
+  background-color: hotpink;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  color: chartreuse;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.class1
+{
+    color: navy;
+}
+
+a :link {color: yellow;}
+a :visited {color: green;}
