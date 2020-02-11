@@ -1,0 +1,67 @@
+
+th{border: 1px solid black;
+    border-collapse: collapse;}
+td {
+text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+    table{border: 1px solid black;
+    border-collapse: collapse;}
+    
+     
+  /*Attribute example*/
+  
+  [title~=Picture] {
+    border: 10px solid #bd1b1b
+  }
+
+
+  
+  /* Combinator example */
+  
+  
+  paragraphs > h2 {
+    color: black;
+    font-family: fantasy;
+  }
+
+
+
+  /*  Selectors  Examples */
+
+
+p {
+    color: darkgrey;
+    font-size: 16px;
+  }
+  
+ 
+  
+  /* Pseudo-class Examples */
+  
+  a:link {
+    color: blue;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: darkblue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  
+  
+ 
+  
+  
+  
